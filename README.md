@@ -1,6 +1,14 @@
-# ⚠️ THIS REPOSITORY IS NOT MAINTAINED ⚠️
+# 🔱 FORKED VERSION - NO SUPPORT OFFERED 🔱
 
-**I recommend switching to use [github.com/qdm12/gluetun](https://github.com/qdm12/gluetun) instead.**
+**This is a personal fork of [bubuntux/nordvpn](https://github.com/bubuntux/nordvpn) for my own use.**
+**No support, issues, or pull requests will be accepted.**
+**Use at your own risk.**
+
+---
+
+# ⚠️ ORIGINAL REPOSITORY IS NOT MAINTAINED ⚠️
+
+**Original author recommends switching to use [github.com/qdm12/gluetun](https://github.com/qdm12/gluetun) instead.**
 
 ---
 
