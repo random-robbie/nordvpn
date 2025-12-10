@@ -52,11 +52,3 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: ${{ steps.meta.outputs.tags }}
-
-      - name: Update repo description
-        uses: peter-evans/dockerhub-description@v3
-        if: github.ref_name == 'master'
-        with:
-          username: whatsecrob
-          password: ${{ secrets.DOCKERHUB_TOKEN }}
-          repository: whatsecrob/nordvpn
